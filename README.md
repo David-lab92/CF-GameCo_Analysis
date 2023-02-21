@@ -1,4 +1,4 @@
-# GameCo-Analysis
+# GameCo Analysis
 
 This repository contains an Excel-based project investigating a database of a fictitious video game company. 
 
