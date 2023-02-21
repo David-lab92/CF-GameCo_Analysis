@@ -8,7 +8,7 @@ GameCo sales have been the same over time and require data insights for a new ma
 
 #  Data 
 
-The full details of the data are available in the folder _/01 data/_
+The full details of the data are available in the folder _/02 data/_
 
 # Tools
 
